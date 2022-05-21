@@ -7,18 +7,18 @@ Git is most famous version control system. It will record our changes, When, Who
 - Track history
 - Work together
 
-### version control system types
+### Version control system types
 
 - Centralized
 - Distributed
 
 ### Why git?
 
-- free
-- open source 
-- super fast
-- scalable 
-- cheap branching/merging
+- Free
+- Open source 
+- Super fast
+- Scalable 
+- Cheap branching/merging
 
 ### Using git
 
@@ -28,21 +28,13 @@ Git is most famous version control system. It will record our changes, When, Who
 
 ## Basic settings
 
-- name
-- email 
-- default editor
-- line ending
+- Name
+- Email 
+- Default editor
+- Line ending
 
 ### Settings level
 
 - System
 - Users
 - Local
-
-## git commit
-
-- ID
-- Message
-- Date/time
-- Author
-- Complete snapshot

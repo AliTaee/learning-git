@@ -11,7 +11,7 @@
 - Ending line: Mac/Linux `git config --global core.autocrlf input`
 - Ending line: Windows `git config --global core.autocrlf true`
 
-## help 
+## Help 
 
 Here we search about config:
 
@@ -20,4 +20,4 @@ Here we search about config:
 
 ## Setup project
 
-- `git --init`
+- `git init`
