@@ -24,5 +24,6 @@ Here we search about config:
 
 ## Creating snapshots
 
-- git rm "file name or patterns"
-- git ls files
+- `git rm "file name or patterns"`
+- `git ls files`
+- `git commit -am "commit message"`
