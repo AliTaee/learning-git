@@ -28,4 +28,5 @@ Here we search about config:
 - See files in staging: `git ls files`
 - Add file and commit in same time: `git commit -am "commit message"`
 - Move command: `git mv "renamed file name" "old file name"`
-- `git status`, `git status -s`  
+- `git status`, `git status -s`
+- `git diff --staged`, `git diff` 
