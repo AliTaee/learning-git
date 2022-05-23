@@ -25,7 +25,7 @@ Here we search about config:
 ## Creating snapshots
 
 - Delete command: `git rm "file name or patterns"`
-- See files in staging: `git ls files`
+- See files in staging: `git ls-files`
 - Add file and commit in same time: `git commit -am "commit message"`
 - Move command: `git mv "renamed file name" "old file name"`
 - `git status`, `git status -s`
@@ -33,3 +33,5 @@ Here we search about config:
 - `git log`, `git log --oneline`, `git log --oneline --reverse`
 - `git show ID`, `git show HEAD`, `git show HEAD~`, `git show HEAD~number to pervious commits`
 - `git restore --staged file name`
+- `git clean -fd`
+- `git restore file name`
