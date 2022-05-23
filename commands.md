@@ -32,3 +32,4 @@ Here we search about config:
 - `git diff --staged`, `git diff`
 - `git log`, `git log --oneline`, `git log --oneline --reverse`
 - `git show ID`, `git show HEAD`, `git show HEAD~`, `git show HEAD~number to pervious commits`
+- `git restore --staged file name`
