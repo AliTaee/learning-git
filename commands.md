@@ -27,3 +27,4 @@ Here we search about config:
 - `git rm "file name or patterns"`
 - `git ls files`
 - `git commit -am "commit message"`
+- `git mv "renamed file name" "old file name"`
