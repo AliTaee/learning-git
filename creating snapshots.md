@@ -8,7 +8,7 @@
 - Author
 - Complete snapshot
 
-## Git commit best practices
+## Git commit best practices ✅
 
 - Commit size: Not short, not Big
 - Don't commit base on file changes
