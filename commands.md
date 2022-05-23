@@ -29,4 +29,6 @@ Here we search about config:
 - Add file and commit in same time: `git commit -am "commit message"`
 - Move command: `git mv "renamed file name" "old file name"`
 - `git status`, `git status -s`
-- `git diff --staged`, `git diff` 
+- `git diff --staged`, `git diff`
+- `git log`, `git log --oneline`, `git log --oneline --reverse`
+- `git show ID`, `git show HEAD`, `git show HEAD~`, `git show HEAD~number to pervious commits`
