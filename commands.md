@@ -21,3 +21,8 @@ Here we search about config:
 ## Setup project
 
 - `git init`
+
+## Creating snapshots
+
+- git rm "file name or patterns"
+- git ls files
