@@ -3,6 +3,8 @@
 ## What is git? 
 
 Git is most famous version control system. It will record our changes, When, Who, and why do that change. And, if we want, we could back to specific point in history of our software.
+for more information: [git-scm.com](https://git-scm.com/)
+
 
 - Track history
 - Work together
