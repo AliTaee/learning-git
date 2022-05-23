@@ -24,7 +24,8 @@ Here we search about config:
 
 ## Creating snapshots
 
-- `git rm "file name or patterns"`
-- `git ls files`
-- `git commit -am "commit message"`
-- `git mv "renamed file name" "old file name"`
+- Delete command: `git rm "file name or patterns"`
+- See files in staging: `git ls files`
+- Add file and commit in same time: `git commit -am "commit message"`
+- Move command: `git mv "renamed file name" "old file name"`
+- `git status`, `git status -s`  
