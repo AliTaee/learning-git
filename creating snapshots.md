@@ -1,11 +1,11 @@
-# creating snapshots
+# creating snapshots 📸
 
 ## Git commit
 
-- ID
-- Message
+- ID 🪪
+- Message 💬
 - Date/time
-- Author
+- Author 👨‍💻
 - Complete snapshot
 
 ## Git commit best practices ✅
