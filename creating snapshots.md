@@ -1,4 +1,4 @@
-# creating snapshots 📸
+# Creating snapshots 📸
 
 ## Git commit
 
