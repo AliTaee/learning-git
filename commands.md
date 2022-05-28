@@ -21,7 +21,7 @@
 - Delete and add staging command: `git rm "file name or patterns"`
 - See files in staging 🗃️: `git ls-files`
 - Add file to staging and commit in same time: `git commit -am "commit message"`
-- Move command: `git mv "renamed file name" "old file name"`
+- Move command: `git mv "old file name" "renamed file name"`
 - Get last state of files: 
     - `git status` 
     - `git status -s`
