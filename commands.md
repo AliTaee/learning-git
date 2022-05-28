@@ -40,6 +40,5 @@
 - Undo work on a file:
     - on stage: `git restore --staged file name`
     - on working enviroment: - `git restore file name`
-- 
 - `git clean -fd`
 - Restore a file: `git restore --source=HEAD~1 full fill path name`
