@@ -41,4 +41,4 @@
     - on stage: `git restore --staged file name`
     - on working environment: - `git restore file name`
 - `git clean -fd`
-- Restore a file: `git restore --source=HEAD~1 full fill path name`
+- Restore a file from pervious head commit with specific number: `git restore --source=HEAD~1 full path name`
