@@ -58,14 +58,14 @@
 ## Filtering the history
 
 - Shows the last 3 entries: `git log -3`
-- Show Range of Commits: `git log hash1..hash2`
-- Formatting the log output: `git log --pretty=format:”%an committed %H”`
+- Show Range of Commits: `git log hash1(older)..hash2(newer)`
+- Formatting the log output: `git log --pretty=format:"%an committed %H"`
 - Filter logs by:
-  - Author name: `git log --author=“Ali”`
-  - Date: `git log --before=“2020-08-17”` or `git log --after=“one week ago”`
-  - A word in:
-    - Message: `git log --grep=“GUI”`
-    - Changes: `git log -S“GUI”`
+  - Author name: `git log --author="Ali"`
+  - Date: `git log --before="2020-08-17"` or `git log --after="one week ago"`
+  - A word in (is case sensitive):
+    - Message: `git log --grep="GUI"`
+    - Changes: `git log -S"GUI"`
 
 ## Comparing commits
 
