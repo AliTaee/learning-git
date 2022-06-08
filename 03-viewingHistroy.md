@@ -31,3 +31,19 @@
 
 - To a commit: `git checkout dad47ed`
 - To a branch: `git checkout master`
+
+## Finding a bad commit
+
+- `git bisect start `
+- Marks the current commit as a bad commit: `git bisect bad`
+- Marks the given commit as a good commit: `git bisect good ca49180`
+- Terminates the bisect session: `git bisect reset`
+
+## Tagging
+
+- Tags the last commit as v1.0 (light weight tag): `git tag v1.0`
+- Create an annotated tag: `git tag -a v1.0 -m 'our message'`
+- Tags an earlier commit: `git tag v1.0 5e7a828`
+- Lists all the tags: `git tag`
+- Lists all the tags with their messages: `git tag -n`
+- Deletes the given tag: `git tag -d v1.0 `
